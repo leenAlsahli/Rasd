@@ -117,7 +117,7 @@ rr/
 ├── requirements.txt                # Project dependencies
 ├── run.sh                          # Execution script
 └── README.md                       # Project documentation
+```
 
-**## Author
-**
+## Author
  Leen Alsahli — [LinkedIn](https://linkedin.com/in/leen-alsahli-1064a6305) | [Portfolio](https://leen-portfolio-inky.vercel.app)

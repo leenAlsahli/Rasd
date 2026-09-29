@@ -1,0 +1,991 @@
+﻿text,intent,sentiment
+متى تنتهي عروض اليوم الوطني؟,Inquiry,Neutral
+الشحنة تاخرت مررررررره,Complaint,Negative
+التعامل ممتاز,Positive Feedback,Positive
+وش الفرق بين كل هالخدمات لان صراحه واجد لخبطت بينهم,Inquiry,Neutral
+هل أقدر اغير طريقة الدفع؟,Inquiry,Neutral
+ممكن ترسلون لي تفاصيل؟,Request,Neutral
+اقترح عليكم تعدلون هالبرنامج,Suggestion,Positive
+هل انتم تابعين للوزاره ؟ ,Inquiry,Neutral
+هل فيه رسوم للالغاء ولا ,Inquiry,Neutral
+ياليت تضيفون الخدمات,Suggestion,Neutral
+تستاهلون 5 نجوم صراحة ,Positive Feedback,Positive
+متى ينتهي العرض؟,Inquiry,Neutral
+وصلني الطلب خربان ,Complaint,Negative
+التطبيق زين بس ممكن تزيدون خيارات الدفع,Suggestion,Neutral
+هل سبق وتعاملوا مع هالشركه ؟,Inquiry,Neutral
+التطبيق يقفل لحاله وأنا بنص استخدامي له,Technical Issue,Negative
+وضحوا التطبيق اكثر,Suggestion,Positive
+مستحيل الاهمال,Complaint,Negative
+ابي الغي الطلب وأسترجع المبلغ,Request,Neutral
+هل أقدر اغير طريقه الدفع بعد ماتمت الطلب؟,Inquiry,Neutral
+استرجاع المبلغ تاخر أكثر من المدة المكتوبه,Payment Problem,Negative
+كم مدة التوصيل بالعاده ؟,Inquiry,Neutral
+كل مره اقول يمكن تتحسنون بس مافي تحسن,Complaint,Negative
+كيف اعدل على هالغلط,Inquiry,Neutral
+التطبيق يحدث كل شوي بدون داعي,Technical Issue,Negative
+التعامل معكم صاير مزعج بشكل,Complaint,Negative
+ممكن ترسلون لي تفاصيل الشحنة على الايميل؟,Request,Neutral
+وصلني الطلب الغلط ولين الحين مافي رد,Complaint,Negative
+لما اضغط عالابلكيشن مايمديني له,Technical Issue,Negative
+مايضبط معي الموقع  ,Technical Issue,Negative
+كل شي كان كويس ماقصرتوا,Positive Feedback,Positive
+وش ممكن اسوي عشان اتمم الطلب ؟,Inquiry,Neutral
+هل توظفون حاليا,Inquiry,Neutral
+في فرق بين المبلغ المعروض والمبلغ المخصوم,Payment Problem,Negative
+وش الاوراق المطلوبه؟,Inquiry,Neutral
+كل شوي يعلق علي,Technical Issue,Negative
+ثاني مرة يصير معي نفس الغلط مستحييل,Complaint,Negative
+حليتوا مشكلتي بسرعة شكرا لكم,Positive Feedback,Positive
+ما تطلع لي النوتفكيشنز,Technical Issue,Negative
+هل عندكم اقساط؟,Inquiry,Neutral
+بالله عبدولي الطلب بيوم ثاني,Request,Neutral
+اقترح تزيدون الخدمات,Suggestion,Neutral
+التطبيق يقفل لحاله وأنا بنص التجربه,Technical Issue,Negative
+أسوأ تجربه تمر علي,Complaint,Negative
+عدل لي الموعد بوقت ثاني,Request,Neutral
+سو لي هالموضوع,Request,Neutral
+ميف ممكن اغير حسابي,Inquiry,Neutral
+احتاج تعدلون لي هالشغله,Request,Neutral
+الله يعافيكم كل شي رهيب,Positive Feedback,Positive
+شكرا لكم تعاملتوا مع الموضوع على طول يعطيكم العافيه,Positive Feedback,Positive
+التطبيق صاير بطيء جدا ,Technical Issue,Negative
+أبغى اعدل الطلب,Request,Neutral
+مشاكل التطبيق ماتخلص,Complaint,Negative
+لو تعدلون تطبيقكم بيكون افضل,Suggestion,Neutral
+كيف أقدر اتابع شحنتي؟,Inquiry,Neutral
+هل فيه رسوم اضافيه,Inquiry,Neutral
+وش الفرق بين الباقتين الجديدتين؟,Inquiry,Neutral
+مليون مره يصير معي نفس الخطأ,Complaint,Negative
+الفكرة اللي مسوينها ممتازة بس ممكن توضحونها أكثر,Suggestion,Positive
+كل شوي يسحب مني بدون اي سبب,Payment Problem,Negative
+اللوكيشن ما يحدد موقعي صح,Technical Issue,Negative
+محد يرد علي !,Complaint,Negative
+الدفع ما يزبط رغم اني جربت اكثر من بطاقة,Payment Problem,Negative
+الابلكيشن مو راضي يشبك بالسيرفر,Technical Issue,Negative
+حرفيا ماراح ارجع اطلب منكم,Complaint,Negative
+الله يعافيكم عدلوا لي هالشغله,Request,Neutral
+لو ماتعدلتوا محد بيجيكم,Complaint,Negative
+ابغى اغير رقم الجوال,Request,Neutral
+ الابلكيشن مايحدث معي,Technical Issue,Negative
+بطاقتي انخصم منها المبلغ بس الطلب ما تأكد,Payment Problem,Negative
+فعلوا لي هالخدمه,Request,Neutral
+ليت لو عندكم منتجات اكثر ,Suggestion,Neutral
+الهوم بيج تطلع فاضيه,Technical Issue,Negative
+لو سمحتوا ممكن تعدلون على حسابي,Request,Neutral
+طفشت منكم قسم بالله,Complaint,Negative
+هل ممكن تغيرون طلبي؟,Inquiry,Neutral
+من زمان انتظر حل لمشكلتي ولا احد يرد علي,Complaint,Negative
+الطلب تأخر اكثر من اسبوع بدون اي تبرير,Complaint,Negative
+وش هالتطبيق لو ماعدلتوه محد بيجيكم,Complaint,Negative
+تجربه حلوه الحمدلله,Positive Feedback,Positive
+كل مرة اواجه نفس المشكلة ولا احد يحلها,Complaint,Negative
+اتصلت أكثر من مرة على خدمة العملاء وما لقيت حل,Complaint,Negative
+دفعتوني رسوم زيادة على الشحنة!,Complaint,Negative
+هل بقدر اغير طلبي بعد ما تممته ولا,Inquiry,Neutral
+وش الوقت المتوقع للرد على طلبات الدعم؟,Inquiry,Neutral
+ياليت تسرعون بتفعيل الباقة مرره مستعجله,Request,Neutral
+ممكن تسوون لي تمديد للخدمه؟,Request,Neutral
+سوولي هالمعامله,Request,Neutral
+أبغى الغي الطلب,Request,Neutral
+متى بتوصلني الطلبيه؟,Inquiry,Neutral
+استغربت من التعامل 0 من 10,Complaint,Negative
+ضف لي نفس هالطلب,Request,Neutral
+يطلع لي خطأ 'حدث خطأ ما' كل ما أحاول أكمل,Technical Issue,Negative
+التطبيق يوقفني ويطلعني برا كل مرة,Complaint,Negative
+خدمة العملاء تحول المكالمة أكثر من مرة وبدون فايدة صارلي نص ساعه,Complaint,Negative
+ما أقدر أسجل دخول من أمس، يطلع خطأ في السيرفر,Technical Issue,Negative
+فعل لي الباقه مره ثانيه ,Request,Neutral
+معلق معي التطبيق مررره,Technical Issue,Negative
+تجربة رائعة من أول ما فتحت التطبيق لين ما خلصت الباقة,Positive Feedback,Positive
+حولت المبلغ ولا وصلني للحين,Payment Problem,Negative
+الخدمة ممتازة والفريق متعاون جدًا,Positive Feedback,Positive
+مو طبيعي صارلي اسبوع انتظر رد,Complaint,Negative
+ابي تغير لي وقت الاستلام ,Request,Neutral
+كل ماضغطت على الزر مايمديني للصفحه اللي بعدها,Technical Issue,Negative
+كيف اشغل الخدمه,Inquiry,Neutral
+الابلكيشن بطيء مرره,Technical Issue,Negative
+ابي خيار دفع عند الاستلام,Request,Neutral
+هذي اخر مره اتعامل معكم,Complaint,Negative
+شكرا على سرعه الخدمه والاستجابه,Positive Feedback,Positive
+عطني نسخه من اخر فاتوره,Request,Neutral
+اتمنى لو فيه احد يتابع معي,Suggestion,Neutral
+عدل لي الطلب مو هذا المطلوب,Request,Neutral
+اسوا تجربه تعاملت معها ,Complaint,Negative
+ابغى اغير موعدي لوقت ثاني,Request,Neutral
+كيف اقدر اغير عنوان الطلب,Inquiry,Neutral
+الاشتراك ما يتحدث بشكل صحيح,Technical Issue,Negative
+هل الخدمة متوفرة في كل المدن؟,Inquiry,Neutral
+لو تحطون خيار خدمة عملاء فيهم بشر حقيقيين بيكون افضل,Suggestion,Neutral
+طلبت استرجاع المبلغ من اسبوعين وما وصل شي,Complaint,Negative
+الشحنة وصلت قبل الموعد المتوقع، شكرًا لكم,Positive Feedback,Positive
+مو منطقي مافي بشر اتفاهم معه,Complaint,Negative
+يطلع لي 'حدث خطأ ما' كل ما أحاول اكمل الطلب,Technical Issue,Negative
+التعامل معكم يتعب ومايطلع بنتيجه,Complaint,Negative
+زر الدفع ما يشتغل,Technical Issue,Negative
+كم المدة المتوقعه لتفعيل السيرفس؟,Inquiry,Neutral
+صفحة طلباتي تطلع فاضية كاني ماطلبت شي,Technical Issue,Negative
+ما وصلني الايصال,Payment Problem,Negative
+طلبت استرداد المبلغ ولين الحين ما رجعتولي اياه,Payment Problem,Negative
+الخصم المبلغ وانا ملغيه اشتراكي,Payment Problem,Negative
+كيف اقدر اشتغل معكم؟,Inquiry,Neutral
+التطبيق سهل الاستخدام وواضح جدًا,Positive Feedback,Positive
+استغرب كيف شركة بهالحجم و ما تهتم بشكاوى الزبائن,Complaint,Negative
+ما وصلني تاكيد الخدمة حتى بعد مارفعت,Payment Problem,Negative
+اخر مره اتعامل معكم مافيه رد ولا حل,Complaint,Negative
+زهقتوني محد يرد زي الناس,Complaint,Negative
+ياليت تضيفون خاصية تتبع الفاتورة,Suggestion,Neutral
+ماتطلع لي الاشعارات ابد,Technical Issue,Negative
+ترجعون لي الفلوس لو الغيت الباقه ؟,Inquiry,Neutral
+التطبيق يوقفني بنص الدفع ويطلعني برا كل مره,Complaint,Negative
+ياليت تسرعون بترجيع الفلوس لاني مستعجله,Request,Neutral
+هل فيه مكان اقدر اتابع فيه ؟,Inquiry,Neutral
+هل أقدر اغير ايميلي؟,Inquiry,Neutral
+ياليت لو كان فيه خيار حفظ أكثر من عنوان للطلب,Suggestion,Neutral
+هل فيه رسوم اضافيه على الاشتراك؟,Inquiry,Neutral
+هل يوجد تطبيق جوال غير الويبسايت؟,Inquiry,Neutral
+فريق الدعم كان صبور ومتفهم لمشكلتي,Positive Feedback,Positive
+دفعت لكن الطلب لسا يطلع غير مدفوع,Payment Problem,Negative
+حسنوا واجهة التطبيق شوي عشان تكون أسهل,Suggestion,Neutral
+التحويل ما يتحدث صح بالتطبيق,Technical Issue,Negative
+تجربة حلوه من أول ما فتحت التطبيق لين ما خلصت,Positive Feedback,Positive
+ما توقعت هالمستوى من الاهمال ,Complaint,Negative
+التطبيق وصل قبل الموعد المتوقع، شكرًا لكم,Positive Feedback,Positive
+جودة الباقة افضل من توقعاتي,Positive Feedback,Positive
+هل اقدر أعدل بياناتي بعد الاتمام؟,Inquiry,Neutral
+لو تضيفون دعم فني عبر واتساب بيكون افضل,Suggestion,Neutral
+سحبوا مني رسوم زيادة على الحجز بدون ما ادري,Complaint,Negative
+التطبيق يهنق كل ما أفتح صفحة البيمنت,Technical Issue,Negative
+الطلب وصل قبل الموعد المتوقع، شكرًا لكم,Positive Feedback,Positive
+لو تسوون برنامج ولاء للعملاء بيكون شي حلو,Suggestion,Positive
+طفشت من التأخير اللي مايخلص في الحجز,Complaint,Negative
+هل تطبيق التوصيل يدعم تابي وتمارا؟,Inquiry,Neutral
+المفروض يكون في متابعة أفضل لمثل هالمشاكل,Complaint,Negative
+تم خصم المبلغ مرتين من حسابي على نفس المعاملة,Payment Problem,Negative
+الخدمة تمت بسلاسة,Positive Feedback,Positive
+متى بيوصل طلبي!؟,Inquiry,Neutral
+خصموا زياده مني بدون اي توضيح,Payment Problem,Negative
+خصمتوا المبلغ مرتين من حسابي على نفس الطلب,Payment Problem,Negative
+ما يقبل كلمة المرور رغم أنها صحيحة,Technical Issue,Negative
+أقترح تفعيل تنبيهات صوتية عند التحديث,Suggestion,Neutral
+تم خصم مبلغ بدون سبب واضح ولين الحين ما رجع,Complaint,Negative
+سعر مناسب وخدمة ممتازة، تستاهلون خمس نجوم,Positive Feedback,Positive
+ممكن تكنسون طلبي؟,Request,Neutral
+الدعم الفني رد علي بجواب جاهز مو قاعد يحل المشكلة,Complaint,Negative
+ما وصلني ايصال الدفع تبع التطبيق,Payment Problem,Negative
+نبي يكون فيه خيار حفظ أكثر من عنوان,Suggestion,Neutral
+من الصبح أحاول أكلم الدعم ولا أحد يرد، ابدا مو طبيعي,Complaint,Negative
+سبحان الله كل مرة نفس المشكلة تتكرر وما فيه حل جذري,Complaint,Negative
+اشتريت قبل شهر ولين الحين المنتج ما وصل، وين المصداقية؟,Complaint,Negative
+صراحة زهقت من كثر الأعذار الجاهزة اللي يرسلونها,Complaint,Negative
+آخر مرة أشتكي، بعدها ببلغ الجهات المختصة,Complaint,Negative
+توقعت خدمة أفضل من هالاسم المعروف بس للأسف خيبوا الظن,Complaint,Negative
+المفروض اعتذار واضح مو بس رسالة تلقائية,Complaint,Negative
+من كثر المشاكل صرت أفكر أسوي مقاطعة للتطبيق,Complaint,Negative
+حرام عليكم، كبار السن يواجهون صعوبة يستخدمون التطبيق وما فيه دعم يساعدهم,Complaint,Negative
+اتصلت 5 مرات وكل مرة يحولوني لقسم ثاني بدون فايدة,Complaint,Negative
+المنتج اللي وصل مو نفس الصورة المعروضة بالتطبيق,Complaint,Negative
+أسبوعين وأنا انتظر رد على الشكوى ولا حياة لمن تنادي,Complaint,Negative
+تعبت اشرح نفس المشكلة لعشر موظفين مختلفين,Complaint,Negative
+هذا ثالث طلب يتأخر معي هالشهر، حلوا مشاكلكم,Complaint,Negative
+ليه ما فيه رقم مباشر أتواصل فيه بدل الشات الالي اللي ما يفهم شي,Complaint,Negative
+الاسعر ترتفع بدون سابق انذار وبدون توضيح,Complaint,Negative
+حسيت ان اللي يرد علي بالشات بوت مو موظف حقيقي، ومشكلتي ما انحلت,Complaint,Negative
+طلبت نفس المنتج اللي طلبته قبل واختلفت الجودة بشكل واضح,Complaint,Negative
+انتظرت بالهولد فوق ال ٤٠ دقيقة ولا أحد رد,Complaint,Negative
+سويت كل الخطوات اللي طلبتوها ومع ذلك ما انحلت المشكلة,Complaint,Negative
+هل التوصيل يشمل المناطق البعيده برسوم إضافية؟,Inquiry,Neutral
+وش الحد الادنى للطلب عشان يكون التوصيل مجاني,Inquiry,Neutral
+ابي اعرف هل فيه نسخة تجريبية قبل الاشتراك السنوي؟,Inquiry,Neutral
+كم تستغرق عملية التحقق من الهوية بالعادة,Inquiry,Neutral
+هل ممكن أستخدم أكثر من كوبون خصم بنفس الطلب؟,Inquiry,Neutral
+وش أفضل باقة تناسب الاستخدام العائلي؟,Inquiry,Neutral
+هل الدعم الفني متوفر 24 ساعة,Inquiry,Neutral
+متى يفتح التسجيل للدورة الجديده,Inquiry,Neutral
+هل اقدر ادفع بالاقساط,Inquiry,Neutral
+وش يصير لو تأخرت بالدفع يوم أو يومين؟,Inquiry,Neutral
+هل التطبيق يدعم أكثر من حساب على نفس الجهاز؟,Inquiry,Neutral
+كيف أتأكد ان صوري محفوظه وماتطلع برا التطبيق,Inquiry,Neutral
+هل اقدر اغير اللغه,Inquiry,Neutral
+وش السن المسموح فيه للتسجيل بالخدمة؟,Inquiry,Neutral
+هل يشمل الضمان الاستبدال أو بس الصيانة؟,Inquiry,Neutral
+كم مدة صلاحية الرصيد المضاف؟,Inquiry,Neutral
+هل أقدر أستخدم نفس الحساب من دولة ثانية؟,Inquiry,Neutral
+وش الفرق بين النسخة المجانية والمدفوعة بالتفصيل؟,Inquiry,Neutral
+هل التطبيق يشتغل بدون إنترنت جزئيًا؟,Inquiry,Neutral
+متى تنتهي فترة استرجاع المنتج؟,Inquiry,Neutral
+أبغى أضيف عنوان ثاني للتوصيل السريع,Request,Neutral
+ياليت تفعلون لي خاصية التذكير قبل موعد التجديد,Request,Neutral
+أحتاج فاتورة ضريبية باسم الشركة مو الشخصي,Request,Neutral
+ممكن توقفون الخصم التلقائي من حسابي؟,Request,Neutral
+أبي أدمج حسابين ببعض إذا ممكن,Request,Neutral
+ياليت ترسلون فني للمعاينة قبل يوم الجمعة,Request,Neutral
+أرجو تحويل طلبي لفرع أقرب لي,Request,Neutral
+أحتاج تفعيل اللغة الإنجليزية بدل العربية بالتطبيق,Request,Neutral
+ممكن تمددون مهلة السداد أسبوع زيادة؟,Request,Neutral
+أبغى إلغاء الاشتراك التلقائي بس أبقي الحساب مفعل,Request,Neutral
+ياليت تسوون لي استرجاع كامل مو جزئي,Request,Neutral
+أحتاج تعديل اسمي بالنظام لأنه مكتوب غلط,Request,Neutral
+ممكن تعطوني موعد بديل غير اللي محدد؟,Request,Neutral
+أبغى نسخة ورقية من العقد مو بس إلكترونية,Request,Neutral
+ياليت توفرون خيار استلام من المتجر مباشرة,Request,Neutral
+التطبيق يطلب مني تسجيل الدخول من جديد كل شوي,Technical Issue,Negative
+الكاميرا داخل التطبيق ما تشتغل عشان أرفع صورة الهوية,Technical Issue,Negative
+زر متابعة ما يستجيب أبدًا في الخطوة الأخيرة,Technical Issue,Negative
+التطبيق يستهلك بطارية بشكل غريب مقارنة بغيره,Technical Issue,Negative
+رسالة التحقق توصل متأخرة جدًا أو ما توصل خالص,Technical Issue,Negative
+عند تدوير الجوال تنقلب الشاشة بشكل خاطئ,Technical Issue,Negative
+البحث داخل التطبيق ما يطلع نتائج صحيحة,Technical Issue,Negative
+التطبيق يطلب صلاحيات غريبة ما لها علاقة بالخدمة,Technical Issue,Negative
+سلة المشتريات تفضى لحالها بدون سبب واضح,Technical Issue,Negative
+التطبيق ما يدعم أحدث نسخة من الاوبريتنق سستم,Technical Issue,Negative
+الاشعارات تبقى حمرا حتى بعد ما أفتحها,Technical Issue,Negative
+صفحة الدفع تاخذ وقت طويل مره وتلف وتدور,Technical Issue,Negative
+التطبيق عرض لي بيانات مستخدم ثاني بالغلط,Technical Issue,Negative
+مقدر ارفع أكثر من صورة رغم إن الخيار موجود,Technical Issue,Negative
+التطبيق يطلب تحديث بس يعلق بنص التحميل,Technical Issue,Negative
+قبلوا الدفع من البنك لكن الطلب يظهر معلق عندكم,Payment Problem,Negative
+الكوبون ما يشتغل رغم إن تاريخه لسا ساري,Payment Problem,Negative
+انخصم مبلغ أكبر من اللي كان معروض وقت الدفع,Payment Problem,Negative
+حاولت أضيف بطاقة جديدة وما قبلها النظام لأكثر من مرة,Payment Problem,Negative
+المبلغ المسترجع وصل أقل من المبلغ الأصلي بدون توضيح,Payment Problem,Negative
+ظهر لي خطأ بالدفع لكن المبلغ انخصم فعليًا من حسابي,Payment Problem,Negative
+ما قدرت أستخدم رصيد المحفظة رغم إنه موجود بالحساب,Payment Problem,Negative
+تم تجديد الاشتراك تلقائيًا رغم إني ألغيته من فترة,Payment Problem,Negative
+الفاتورة اللي وصلتني فيها بند غير مفهوم يزيد المبلغ,Payment Problem,Negative
+طلبت تقسيط الفاتورة ولين الحين ما تفعل الخيار,Payment Problem,Negative
+دفعت بعملة مختلفة عن اللي كانت معروضة بالسعر الأساسي,Payment Problem,Negative
+حصل خصم مزدوج على نفس العملية بفارق دقيقتين بس,Payment Problem,Negative
+ما وصلتني رسالة تأكيد الدفع رغم نجاح العملية,Payment Problem,Negative
+المبلغ المحجوز على البطاقة ما تحرر بعد إلغاء الطلب,Payment Problem,Negative
+رسوم التحويل أعلى من المعلن عنها بصفحة الأسعار,Payment Problem,Negative
+ياليت تضيفون وضع القراءة الليلي بالتطبيق,Suggestion,Neutral
+اقترح تحديث تصميم الصفحة الرئيسية لأنها مزدحمة شوي,Suggestion,Neutral
+لو تضيفون تنبيه قبل انتهاء الرصيد بثلاث أيام يكون أفضل,Suggestion,Neutral
+فكرة الاشتراك السنوي بخصم حلوة، بس وضحوها أكثر بالواجهة,Suggestion,Positive
+ياريت يكون فيه فلترة حسب السعر بنتائج البحث,Suggestion,Neutral
+أقترح إضافة تقييم للسائق بعد كل توصيلة,Suggestion,Neutral
+لو تسوون تطبيق مصغر للمتابعة السريعة بيكون ممتاز,Suggestion,Positive
+ممكن تضيفون خيار حفظ البيانات لتسريع الطلبات الجاية,Suggestion,Neutral
+حبيت فكرة النقاط بس ياليت طريقة استبدالها توضح أكثر,Suggestion,Positive
+اقترح تفعيل تسجيل الدخول بالبصمة بدل كلمة المرور,Suggestion,Neutral
+لو فيه نسخة تجريبية مجانية أطول بتشجع أكثر على الاشتراك,Suggestion,Neutral
+فكرة الإشعارات الذكية حلوة بس تجي كثير أحيانًا,Suggestion,Positive
+ياليت تضيفون دعم لأكثر من لغة غير العربي والإنجليزي,Suggestion,Neutral
+أقترح تبسيط خطوات التسجيل لأنها طويلة شوي,Suggestion,Neutral
+فكرة تتبع الطلب بالخريطة حلوة، زيدوا عليها الوقت المتبقي بالدقائق,Suggestion,Positive
+ما شاء الله عليكم، خدمة توصيل سريعة جدًا هالمرة,Positive Feedback,Positive
+الموظف اللي رد علي كان محترم وصبور وحل مشكلتي بدقيقتين,Positive Feedback,Positive
+التطبيق تطور كثير عن أول إصدار، تستاهلون,Positive Feedback,Positive
+صراحة انبهرت بسرعة استرجاع المبلغ بعد الإلغاء,Positive Feedback,Positive
+التغليف كان ممتاز والمنتج وصل بحالة ممتازة,Positive Feedback,Positive
+أول مرة أواجه دعم فني يفهم المشكله من أول رسالة,Positive Feedback,Positive
+جربت خدمة العملاء اليوم وطلعت تجربة سلسة فعلاً,Positive Feedback,Positive
+يعطيكم العافية على سرعة الرد بهالفترة الزحمه,Positive Feedback,Positive
+التطبيق واضح وما يحتاج شرح، كل شي بديهي,Positive Feedback,Positive
+الأسعار مناسبة والجودة فوق التوقعات,Positive Feedback,Positive
+حبيت إضافة تتبع الطلب، ارتحت اكثر الصدق,Positive Feedback,Positive
+تجربة الشراء كانت ممتعة من البداية للنهاية,Positive Feedback,Positive
+الدعم رجع لي بسرعة وحل المشكلة بدون ما أكرر كلامي,Positive Feedback,Positive
+فريق التوصيل ملتزم بالمواعيد دايمًا,Positive Feedback,Positive
+أنصح فيه مره، تجربة تستاهل التقييم الخمس نجوم,Positive Feedback,Positive
+والله ما توقعت الرد يجيني بنفس اليوم، تسلمون,Positive Feedback,Positive
+كل مرة أتردد أطلب منكم بس صراحة ما ندمت أبدًا,Positive Feedback,Positive
+سألت صديقتي عن التطبيق وقالت لي جربيه، والحين أنا اللي أنصح فيه غيري,Positive Feedback,Positive
+الفني اللي جاني كان محترف وشرح لي كل شي بالتفصيل,Positive Feedback,Positive
+أول مرة أرجع منتج وأشوف الإجراء بهالسهولة,Positive Feedback,Positive
+عجبتني إنكم ترسلون تحديث بحالة الطلب كل خطوة,Positive Feedback,Positive
+الموظفة كانت لطيفة جدًا رغم إني كنت متضايق وقت الاتصال,Positive Feedback,Positive
+صراحة توقعت مشاكل بالتركيب بس كل شي مشى زي الفل,Positive Feedback,Positive
+حتى بعد انتهاء الضمان تعاملوا معي بمرونة وحلوا المشكلة,Positive Feedback,Positive
+يبان عليكم تهتمون براحة الزبون مو بس البيع,Positive Feedback,Positive
+كنت متردد أشترك بس بعد أول شهر اقتنعت إنه قرار صح,Positive Feedback,Positive
+التطبيق ثابت ما يهنق أبدًا حتى بضعف النت,Positive Feedback,Positive
+حسيت اني متابع بشكل شخصي مو بس رقم تذكرة,Positive Feedback,Positive
+رجعوا لي فلوسي بدون ما أطالب، هذا احترافية حقيقية,Positive Feedback,Positive
+عيدت الطلب أكثر من مرة والخدمة ثابتة على نفس المستوى الزين,Positive Feedback,Positive
+واجهة التطبيق تحس إنها مصممة لناس عاديين مو بس متخصصين,Positive Feedback,Positive
+كلمتهم الساعة 11 بالليل ولقيت احد يرد، شي ما توقعته,Positive Feedback,Positive
+من أفضل قرارات هالسنة إني بدلت لهذا التطبيق,Positive Feedback,Positive
+اقترح تعطون العميل خيار اختيار وقت التوصيل,Suggestion,Neutral
+عجبني الشات، واقترح تضيفون ارسال صور فيه,Suggestion,Positive
+المحفظة نقصت بدون عملية من عندي,Payment Problem,Negative
+خدمة العملاء ما تسمع للعميل,Complaint,Negative
+ما توقعت هالسرعة صراحة,Positive Feedback,Positive
+الموقع يطلب مني تسجيل الدخول في كل صفحة,Technical Issue,Negative
+ابغى اطلب الصيانة المجانية,Request,Neutral
+وين حقي؟ صارلي شهر ادور رد,Complaint,Negative
+اعجبني برنامج النقاط ولو تسهلون استخدامها,Suggestion,Positive
+المقاسات دقيقة والقماش حلو,Positive Feedback,Positive
+لو تحسنون سرعة الصفحة بيكون مناسب,Suggestion,Neutral
+اعجبتني فكرة الاشعارات لكن ياليت تخلونها اقل,Suggestion,Positive
+شيلوا بطاقتي من النظام,Request,Neutral
+ما ينفتح الا بعد ما اعيد تشغيل الجوال,Technical Issue,Negative
+الدفع الالكتروني عندكم عليه مشاكل دايم,Payment Problem,Negative
+المندوب اخذ مبلغ اكثر من الفاتورة,Payment Problem,Negative
+وش شروط العرض؟,Inquiry,Neutral
+تغليف الهدايا كان بشكل جميل,Positive Feedback,Positive
+لا تغيرون شي، خدمتكم مضبوطة,Positive Feedback,Positive
+كم الانتظار عادة؟,Inquiry,Neutral
+الجودة ممتازة وسعرها مناسب,Positive Feedback,Positive
+خدمتكم حلوة وياليت تضيفون فروع اكثر,Suggestion,Positive
+الجودة تدهورت هالفترة واضح,Complaint,Negative
+الكاميرا ما تفتح داخل التطبيق,Technical Issue,Negative
+اقتراحي تخلون الالوان اهدى,Suggestion,Neutral
+طفشت من الانتظار كل مرة نفس القصة,Complaint,Negative
+التطبيق خفيف وسريع,Positive Feedback,Positive
+طلبت استرداد واعطوني رصيد بالمحفظة بدل الفلوس,Payment Problem,Negative
+الزر ما يستجيب لما اضغط عليه,Technical Issue,Negative
+التصميم حلو وبس ياليت تكبرون الخط,Suggestion,Positive
+الفاتورة PDF تنزل فاضية,Technical Issue,Negative
+المبلغ انحسب بالدولار بدل الريال,Payment Problem,Negative
+اقدر اقول انها احسن خدمة بالمنطقة,Positive Feedback,Positive
+المفضلة ما تنحفظ,Technical Issue,Negative
+ابي اضيف تعليمات خاصة للطلب,Request,Neutral
+الترجمة العربية مقطوعة ومقلوبة في بعض الصفحات,Technical Issue,Negative
+ياليت تفتحون فرع في المنطقة الشرقية,Suggestion,Neutral
+ابغى استرجع المنتج,Request,Neutral
+عطوني رصيد مو نقد وانا ما طلبت,Payment Problem,Negative
+التغليف كان حلو ومرتب,Positive Feedback,Positive
+رسوم اضافية ظهرت لي بالفاتورة بدون تنبيه,Payment Problem,Negative
+ممكن تعيدون شحن الجهاز؟,Request,Neutral
+حبيت ان الاشعارات مو كثيرة,Positive Feedback,Positive
+ممكن ترسلون رقم التتبع؟,Request,Neutral
+متى يفتح الفرع؟,Inquiry,Neutral
+التحديث ما ينزل مهما حاولت,Technical Issue,Negative
+مبلغ الاسترجاع ناقص عن اللي دفعته,Payment Problem,Negative
+واضح انكم تسمعون للعملاء,Positive Feedback,Positive
+هل اقدر الغي الطلب بعد الشحن؟,Inquiry,Neutral
+حبيت فكرة الهدايا مع الطلب ولو تكون اكثر تنوع,Suggestion,Positive
+اشتراك انسحب مرتين هالشهر,Payment Problem,Negative
+هل فيه سجل لطلباتي السابقة؟,Inquiry,Neutral
+ابغى نفس الطلب اللي طلبته الاسبوع الماضي,Request,Neutral
+هل استقبل رسالة قبل وصول المندوب؟,Inquiry,Neutral
+فريق الدعم لطيف ويا ليت يكون فيه رقم مباشر,Suggestion,Positive
+احلى تعامل,Positive Feedback,Positive
+التطبيق يطلب اذونات ما له داعي,Technical Issue,Negative
+هل عندكم فرع في جدة؟,Inquiry,Neutral
+كيف اعرف رصيد نقاطي؟,Inquiry,Neutral
+ياليت تسهلون عملية الاسترجاع,Suggestion,Neutral
+يرسل نفس الرسالة عشر مرات,Technical Issue,Negative
+ما تلقى مثلكم في الجودة,Positive Feedback,Positive
+ابغى احجز موعد يوم الخميس,Request,Neutral
+كيف اتواصل مع خدمة العملاء؟,Inquiry,Neutral
+فرحتوني بالهدية مع الطلب,Positive Feedback,Positive
+ابغى تحديث بحالة طلبي,Request,Neutral
+ياليت توفرون الفواتير بشكل تلقائي على الايميل,Suggestion,Neutral
+فكرة التتبع رائعة لو تدعم الخرائط اكثر,Suggestion,Positive
+تعاملوا معي كأني ما اسوى,Complaint,Negative
+هل تدعمون مدى؟,Inquiry,Neutral
+ردوا علي بعد خمس دقايق فقط,Positive Feedback,Positive
+سعر الصرف اللي حسبوه علي غير عادل,Payment Problem,Negative
+رد الشات كان سريع ومفيد,Positive Feedback,Positive
+جد شغلكم مرتب,Positive Feedback,Positive
+ابي اسجل شكوى رسمية,Request,Neutral
+متى تنتهي صلاحية النقاط؟,Inquiry,Neutral
+لو تعملون تقييم للمندوب بعد كل توصيل,Suggestion,Neutral
+الاسم يطلع بحروف غريبة,Technical Issue,Negative
+رسالة التفعيل ما توصل على ايميلي,Technical Issue,Negative
+السعر بالفاتورة اعلى من الاعلان,Payment Problem,Negative
+كل ما تعاملت معكم ارتحت,Positive Feedback,Positive
+ارجعوا لي حسابي القديم,Request,Neutral
+الدفع ما يمر معي مع انه الرصيد كافي,Payment Problem,Negative
+يوقف علي وسط الطلب,Technical Issue,Negative
+ممكن تبدلون لي المقاس؟,Request,Neutral
+ياليت تسوون قسم للاسئلة الشائعة,Suggestion,Neutral
+اقترح تضيفون خاصية التقسيم بين الاصدقاء,Suggestion,Neutral
+وين اقدر اجد رقم الطلب؟,Inquiry,Neutral
+الطلب جاء زي ما طلبت بالضبط,Positive Feedback,Positive
+ابي اغير عنوان التوصيل,Request,Neutral
+السلة تفضى لحالها,Technical Issue,Negative
+الشكوى تنقفل بدون ما تنحل,Complaint,Negative
+الدفعة الاولى تمت والثانية رفضت والطلب وقف,Payment Problem,Negative
+ابغى تمديد الضمان,Request,Neutral
+ابغى الترقية الى الباقة المميزة,Request,Neutral
+ما اقدر انسخ رقم الطلب,Technical Issue,Negative
+الشبكة تنقطع مع التطبيق فقط,Technical Issue,Negative
+تعبت وانا اشتكي ومافي احد يتجاوب,Complaint,Negative
+سجلوا لي ملاحظة على الطلب,Request,Neutral
+ما وصلني اشعار الدفع,Payment Problem,Negative
+عدلوا اسمي في الحساب,Request,Neutral
+الاسعار معقولة والخدمة تستاهل,Positive Feedback,Positive
+ابي استلم الاشعارات على الواتساب,Request,Neutral
+الأسعار تغيرت بعد ما طلبت,Complaint,Negative
+جودة فوق الوصف,Positive Feedback,Positive
+ذوق واحترام,Positive Feedback,Positive
+أمانة في التعامل واحترام للوقت,Positive Feedback,Positive
+كم سعر الشحن؟,Inquiry,Neutral
+القهوة ممتازة والخدمة اسرع,Positive Feedback,Positive
+ماشاء الله عليكم شغل مرتب,Positive Feedback,Positive
+حسابي البنكي انخصم والعملية فاشلة,Payment Problem,Negative
+بيّض الله وجهكم,Positive Feedback,Positive
+تم تحصيل رسوم مع اني اخترت خيار مجاني,Payment Problem,Negative
+اللون غير عن الصورة تمام وحسيت اني انخدعت,Complaint,Negative
+ما شاء الله تطور واضح، وبس تحسين صغير بسرعة التحميل,Suggestion,Positive
+عملية الشراء انكررت ودفعت الضعف,Payment Problem,Negative
+رسائل الواتساب من التطبيق ما توصل,Technical Issue,Negative
+جربت غيركم كثير وانتوا الأفضل,Positive Feedback,Positive
+السلة ما تحفظ المنتجات,Technical Issue,Negative
+متى يرجع المنتج للمخزون؟,Inquiry,Neutral
+اقترح ترتيب المنتجات حسب الاكثر مبيعا,Suggestion,Neutral
+هل تقدمون خدمة الصيانة؟,Inquiry,Neutral
+دفعت وما ظهر الطلب في حسابي,Payment Problem,Negative
+اقفلوا التذكرة قبل ما تحلون مشكلتي,Complaint,Negative
+موظف الاستقبال كان لطيف مرة,Positive Feedback,Positive
+هل الدعم متاح يوم الجمعة؟,Inquiry,Neutral
+ما تعاملتم معي بجدية ابدا,Complaint,Negative
+اتمنى تحسنون طريقة عرض المنتجات,Suggestion,Neutral
+المنتج نفس الصورة تماماً,Positive Feedback,Positive
+الابلكيشن سهل الاستخدام حتى على امي,Positive Feedback,Positive
+تعامل راقي من اول اتصال,Positive Feedback,Positive
+جودة الاقمشة ممتازة,Positive Feedback,Positive
+الاشعارات تجي مكررة اكثر من مرة,Technical Issue,Negative
+لو تحسنون تغليف المنتجات الهشة,Suggestion,Neutral
+المبلغ معلق عند البنك ويقول من عندكم,Payment Problem,Negative
+زهقت وانا اعيد نفس الكلام لكل موظف,Complaint,Negative
+عملية الدفع ما تكتمل على الجوال,Payment Problem,Negative
+هل فيه ضمان على الجهاز؟,Inquiry,Neutral
+كيف احصل على كود خصم؟,Inquiry,Neutral
+ابي اعدل بيانات الفاتورة,Request,Neutral
+مشكلة في ربط حسابي بالجوال الثاني,Technical Issue,Negative
+التطبيق يطلب تحديث وما يطلع في المتجر,Technical Issue,Negative
+انسحب مني رسوم توصيل ما أعرف ليش,Payment Problem,Negative
+الاشعارات ما تجي الا بعد ساعات,Technical Issue,Negative
+عروضكم حلوة ومفيدة,Positive Feedback,Positive
+ماعجبتني الجودة أبداً,Complaint,Negative
+ابغى تقرير باستهلاكي,Request,Neutral
+حاولت ادفع بمدى وما اشتغل,Payment Problem,Negative
+الاسعار مناسبة ولو تنزلون عروض بالمواسم اكثر,Suggestion,Positive
+مبدعين والله، وبس لو تضيفون الدفع بالتقسيط,Suggestion,Positive
+ارسلوا لي الفاتورة على الايميل,Request,Neutral
+احس اني انصبوا علي,Complaint,Negative
+الموظف رد علي بأسلوب مو محترم,Complaint,Negative
+كم مدة معالجة الاسترجاع؟,Inquiry,Neutral
+الفلوس اللي حولتها ما وصلت للمتجر,Payment Problem,Negative
+ما شفت منكم غير الوعود,Complaint,Negative
+لو يكون فيه مقارنة بين المنتجات,Suggestion,Neutral
+نزل مني قسطين بنفس اليوم,Payment Problem,Negative
+عجبتني طريقة تعاملكم مع العميل,Positive Feedback,Positive
+هل يجي مع ملحقات؟,Inquiry,Neutral
+اقترح خيار التوصيل في اليوم نفسه,Suggestion,Neutral
+الموقع بطيء مررره,Technical Issue,Negative
+يظهر لي سعر مختلف في كل صفحة,Technical Issue,Negative
+غيروا وقت الاستلام الى المساء,Request,Neutral
+ما لقيت أحد يرد علي في الواتساب,Complaint,Negative
+يفضل يكون فيه ايقونة للمساعدة في كل صفحة,Suggestion,Neutral
+الدفع بالتقسيط ما يظهر لي كخيار,Payment Problem,Negative
+طلبي وصل كامل وسليم,Positive Feedback,Positive
+حوّلت المبلغ من البنك وما انسجل عندكم,Payment Problem,Negative
+وين اقدر اقدم اقتراح؟,Inquiry,Neutral
+اقترح تضيفون خيار الطلب بدون اتصال,Suggestion,Neutral
+كذبتوا علي بموعد التسليم,Complaint,Negative
+كيف اغير عنوان التوصيل؟,Inquiry,Neutral
+بضاعة رديئة ما توقعتها منكم,Complaint,Negative
+خدمتكم تفتح النفس,Positive Feedback,Positive
+بطاقة الهدية ما تنقبل عند الدفع,Payment Problem,Negative
+عاد الخدمة عندكم غير,Positive Feedback,Positive
+مررة حبيت الخدمة وراح اكررها,Positive Feedback,Positive
+ممتاااز مرررة,Positive Feedback,Positive
+كيف احجز طاولة؟,Inquiry,Neutral
+ارسلوا لي تفاصيل العرض,Request,Neutral
+ما اقدر ارسل رسالة للدعم من التطبيق,Technical Issue,Negative
+الطلب جاني بارد ومتأخر,Complaint,Negative
+الاسعار مناسبة والجودة عالية,Positive Feedback,Positive
+هل فيه خيارات نباتية؟,Inquiry,Neutral
+الشغل حلو ولو تختصرون خطوات الطلب بيصير اروع,Suggestion,Positive
+مو حلوة طريقتكم في التعامل مع الاعتراض,Complaint,Negative
+ابغى كتالوج المنتجات,Request,Neutral
+لو تضيفون خاصية حفظ العنوان الثاني,Suggestion,Neutral
+لو سمحتم الغوا حسابي,Request,Neutral
+الفيديو ما يشتغل داخل التطبيق,Technical Issue,Negative
+ثقتي فيكم بمحلها,Positive Feedback,Positive
+التغليف سيء والمنتج جا مبعوج,Complaint,Negative
+التطبيق لا يدعم جوالي مع انه حديث,Technical Issue,Negative
+كم مدة الضمان؟,Inquiry,Neutral
+الفلتر ما يشتغل صح,Technical Issue,Negative
+رقم العملية ما ينفع عند خدمة العملاء,Payment Problem,Negative
+ممتازين، واقترح تعطون كود خصم للعميل الجديد,Suggestion,Positive
+روعة والله,Positive Feedback,Positive
+موقعكم مرتب وواضح ويا ليت تضيفون فلتر اكثر,Suggestion,Positive
+وش اسم شركة الشحن؟,Inquiry,Neutral
+جاني الطلب غلط وقالوا اطلب من جديد,Complaint,Negative
+اعيدوا لي رابط تفعيل الحساب,Request,Neutral
+تعاملكم يشرح الصدر,Positive Feedback,Positive
+ما عجبني تعامل الموظفة معي,Complaint,Negative
+فريق محترف بمعنى الكلمة,Positive Feedback,Positive
+التوصيل ممتاز ويا ليت تضيفون تتبع مباشر,Suggestion,Positive
+لو تدمجون الحسابين في حساب واحد,Suggestion,Neutral
+زفت والله، ما توقعت هالمستوى,Complaint,Negative
+الجهاز ما يتعرف على حسابي,Technical Issue,Negative
+اتمنى تضيفون قائمة امنيات,Suggestion,Neutral
+حسيت بالراحة مع التطبيق ولو تضيفون بصمة الوجه,Suggestion,Positive
+اعطوني موعد بوقت ثاني,Request,Neutral
+هل تقبلون الدفع عند الاستلام؟,Inquiry,Neutral
+صدق ومصداقية في التعامل,Positive Feedback,Positive
+طلبت مقاس وجاني مقاس ثاني,Complaint,Negative
+ارسلوا لي كود التحقق مرة ثانية,Request,Neutral
+الوقت والتاريخ غلط في التطبيق,Technical Issue,Negative
+هل تستقبلون طلبات الشركات؟,Inquiry,Neutral
+صرت أكره اتعامل معكم,Complaint,Negative
+متى تنزل العروض الجديدة؟,Inquiry,Neutral
+يا اخي ذي خدمة مو مقبولة,Complaint,Negative
+مو معقول هالتأخير كله,Complaint,Negative
+استعادة الحساب مستحيلة,Technical Issue,Negative
+كيف اتتبع طلبي؟,Inquiry,Neutral
+كم يستغرق التوصيل؟,Inquiry,Neutral
+يا سلام على هالتعامل,Positive Feedback,Positive
+مستحيل اطلب منكم مرة ثانية,Complaint,Negative
+مرة ثانية اثبتوا انكم الافضل,Positive Feedback,Positive
+المبلغ المخصوم اكثر من سعر المنتج,Payment Problem,Negative
+ما ينقصكم الا اضافة الدفع الآجل,Suggestion,Neutral
+غيروا لغة الحساب الى الانجليزي,Request,Neutral
+الله يحفظكم ويزيدكم,Positive Feedback,Positive
+الاسكرول ثقيل ومتقطع,Technical Issue,Negative
+مسح الباركود ما يشتغل,Technical Issue,Negative
+اسعاركم حلوة ولو فيه خصم للطلبات الكبيرة,Suggestion,Positive
+الفاتورة ما فيها اللي طلبته,Complaint,Negative
+جوالي يسخن لما استخدم التطبيق,Technical Issue,Negative
+لقيت المنتج منتهي الصلاحية تقريباً,Complaint,Negative
+كيف اطلع فاتورة ضريبية؟,Inquiry,Neutral
+كيف اخلي التطبيق بالانجليزي؟,Inquiry,Neutral
+وصلني اشعار قبل التوصيل بنص ساعة وهذا شي حلو,Positive Feedback,Positive
+وش الفرق بين التوصيل العادي والسريع؟,Inquiry,Neutral
+الأغراض اللي جتني غير اللي طلبتها,Complaint,Negative
+فقدت جميع طلباتي القديمة,Technical Issue,Negative
+كل شي عندكم ببطء وتأخير,Complaint,Negative
+اقساطي انحسبت بفايدة مو مذكورة,Payment Problem,Negative
+ابغى اتواصل مع قسم المبيعات,Request,Neutral
+ابي اشتري الباقة بعد ما تخلص التجربة,Request,Neutral
+المندوب رمى الطلب عند الباب وراح,Complaint,Negative
+لا تردون على الرسائل ولا تحلون المشاكل,Complaint,Negative
+ليش حالة الطلب معلقة؟,Inquiry,Neutral
+الحمدلله ما واجهت اي مشكلة,Positive Feedback,Positive
+كل ما ادخل رقم البطاقة يقول غير صالحة والبطاقة سليمة,Payment Problem,Negative
+ننصح فيكم كل اهلنا,Positive Feedback,Positive
+التصميم يخرب على الشاشات الصغيرة,Technical Issue,Negative
+ارسلوا لي عرض سعر مكتوب,Request,Neutral
+حسابي انقفل بدون سبب واضح,Technical Issue,Negative
+ابي اشحن محفظتي,Request,Neutral
+الله يبارك فيكم على الاهتمام,Positive Feedback,Positive
+اللي رد علي كان صبور ومتفهم,Positive Feedback,Positive
+وش الفرق بين الباقة الاساسية والمميزة؟,Inquiry,Neutral
+ما اقدر اضيف عنوان جديد,Technical Issue,Negative
+نظافة الفرع مو حلوة أبداً,Complaint,Negative
+اتمنى تحسنون رسائل الخطأ عشان تكون واضحة,Suggestion,Neutral
+وش هالاستهتار بالعملاء,Complaint,Negative
+كم يستغرق حل الشكوى عادة؟,Inquiry,Neutral
+حاولت ادفع ثلاث مرات وكل مرة يخصم ويرجع,Payment Problem,Negative
+قسم الشكاوى ما يشتغل اصلا,Complaint,Negative
+سدّدت المبلغ كامل ولسا يطلبونه,Payment Problem,Negative
+الخصومات اللي عندكم فعلا توفر,Positive Feedback,Positive
+صار خصم بدون ما اطلب اي شي,Payment Problem,Negative
+كم اقصى مبلغ للتقسيط؟,Inquiry,Neutral
+كيف احذف حسابي؟,Inquiry,Neutral
+خطأ في تحميل الفاتورة,Technical Issue,Negative
+ابدا ما ارتحت للتعامل,Complaint,Negative
+نسخة الايفون فيها مشاكل كثير,Technical Issue,Negative
+الدفع الاجل ما اشتغل وكان مقرر,Payment Problem,Negative
+ياليت تخلون البحث ادق,Suggestion,Neutral
+خدمة التقسيط رفضت طلبي بدون سبب,Payment Problem,Negative
+الفاتورة فيها مبلغ مو صحيح,Payment Problem,Negative
+ممكن عرض سعر لكمية كبيرة؟,Request,Neutral
+هل بياناتي محمية عندكم؟,Inquiry,Neutral
+ابغى اضيف مستخدم ثاني على الحساب,Request,Neutral
+ما شاء الله تبارك الله على هالخدمة,Positive Feedback,Positive
+كل شي واضح وشفاف بالاسعار,Positive Feedback,Positive
+طلبت فاتورة وما ارسلوها,Payment Problem,Negative
+عملية الدفع علقت على صفحة التحميل,Payment Problem,Negative
+الخصم تم بعملة غير اللي في الطلب,Payment Problem,Negative
+رسوم الشحن تنحسب مرتين,Payment Problem,Negative
+اعطوني وقتهم وشرحوا لي بالتفصيل,Positive Feedback,Positive
+ابغى اطبع الفاتورة,Request,Neutral
+الدعم بطيء مره وما يفهمون المشكلة,Complaint,Negative
+كل الشكر للفريق,Positive Feedback,Positive
+الاسترجاع عندكم مماطلة وبس,Complaint,Negative
+خصم الكوبون ما انحسب بالمبلغ النهائي,Payment Problem,Negative
+كيف استخدم نقاط الولاء؟,Inquiry,Neutral
+الخدمة عندكم شينة مرة,Complaint,Negative
+ابدعتوا بالتصميم الجديد,Positive Feedback,Positive
+اتمنى تحطون رقم الدعم في مكان اوضح,Suggestion,Neutral
+ما تحتاج اكثر من دقيقتين لانهاء الطلب,Positive Feedback,Positive
+الأزرار متداخلة على شاشة جوالي,Technical Issue,Negative
+التطبيق ممتاز واقترح تضيفون الوضع الليلي,Suggestion,Positive
+ابي اربط حسابي بالبريد الجديد,Request,Neutral
+كيف اصير مسوق بالعمولة؟,Inquiry,Neutral
+جزاكم الله خير ونفع بكم,Positive Feedback,Positive
+المنتج شين ولا يسوى سعره,Complaint,Negative
+اول طلب لي وكانت الخدمة فوق التوقعات,Positive Feedback,Positive
+هل تركيب المنتج مجاني؟,Inquiry,Neutral
+الموظف كان متعاون واجد,Positive Feedback,Positive
+مررره متضايق من هالتعامل,Complaint,Negative
+ابي شهادة ضمان للمنتج,Request,Neutral
+الفرع ما احترم موعدي وخلاني انتظر ساعتين,Complaint,Negative
+الشرح كان واضح ومختصر,Positive Feedback,Positive
+الشاشة تجمد ولازم اسكر التطبيق,Technical Issue,Negative
+هل التطبيق متوفر على الايباد؟,Inquiry,Neutral
+ابي اضيف منتج للطلب قبل الشحن,Request,Neutral
+هل يلزم هوية وطنية للتسجيل؟,Inquiry,Neutral
+ابغى استبدل المنتج بلون ثاني,Request,Neutral
+ما ينفع اسحب رصيدي من المحفظة,Payment Problem,Negative
+كل ما اتصل يقولون بعدين نرد وما يردون,Complaint,Negative
+انخصم الاشتراك السنوي مع اني كنت على الشهري,Payment Problem,Negative
+سياستكم ضد العميل مو معه,Complaint,Negative
+انحسبت عليّ غرامة تأخير ما استاهلها,Payment Problem,Negative
+غيروا اسم الحساب لاسم الشركة,Request,Neutral
+ما التزمتوا بالموعد اللي اتفقنا عليه,Complaint,Negative
+ابي اضيف الرقم الضريبي,Request,Neutral
+جددوا اشتراكي بدون علمي,Payment Problem,Negative
+ياليت تفعلون الدخول بحساب ابل,Suggestion,Neutral
+تسلمون على السرعة في التوصيل,Positive Feedback,Positive
+الرد عندكم يجي بعد اسبوع,Complaint,Negative
+خدمة الدعم على مدار الساعة وهذا ميزة كبيرة,Positive Feedback,Positive
+وش اوقات الدوام؟,Inquiry,Neutral
+ما عندهم خبرة ولا يعرفون يجاوبون,Complaint,Negative
+كم رسوم الاشتراك السنوي؟,Inquiry,Neutral
+الصورة شي والمنتج شي ثاني,Complaint,Negative
+الشكر موصول للموظفة اللي ساعدتني,Positive Feedback,Positive
+تقييمي لكم ممتاز,Positive Feedback,Positive
+لو يكون فيه تطبيق للساعة الذكية,Suggestion,Neutral
+الرابط اللي وصلني ما يشتغل,Technical Issue,Negative
+مبروك عليكم هالمستوى,Positive Feedback,Positive
+اعجبني اهتمامكم بالتفاصيل,Positive Feedback,Positive
+هالمنتج يخرب بسرعة,Complaint,Negative
+لا احترام ولا اهتمام بالعميل,Complaint,Negative
+اسلوبكم راقي واتمنى تفتحون خدمة الشات ٢٤ ساعة,Suggestion,Positive
+سحبتوا القسط قبل موعده,Payment Problem,Negative
+ألغيت الاشتراك وين جاني خصم الشهر الجديد,Payment Problem,Negative
+التطبيق يهنق ويطفي لحاله,Technical Issue,Negative
+اسلوب الرد راقي,Positive Feedback,Positive
+هل توصلون لحي الملقا؟,Inquiry,Neutral
+تعامل سيء من البداية لين النهاية,Complaint,Negative
+هل العرض مستمر لين نهاية الشهر؟,Inquiry,Neutral
+وش معنى حالة قيد المراجعة؟,Inquiry,Neutral
+استرجاع سهل وبدون اسئلة,Positive Feedback,Positive
+ما قصرتوا الله يعطيكم العافية على سرعة الرد,Positive Feedback,Positive
+انخصم مني مبلغ ما اعرف وش هو,Payment Problem,Negative
+اتمنى تزيدون طرق الدفع,Suggestion,Neutral
+ممكن يجي الفني بعد المغرب؟,Request,Neutral
+النص العربي يطلع مقلوب,Technical Issue,Negative
+اغرب تعامل شفته,Complaint,Negative
+ما قدرت ادفع بالبطاقة الائتمانية,Payment Problem,Negative
+اتمنى يكون فيه سجل للاسعار السابقة,Suggestion,Neutral
+الموقع ما يفتح على المتصفح,Technical Issue,Negative
+نقاط الولاء ما انحسبت بعد الدفع,Payment Problem,Negative
+ابغى المندوب يرسل رسالة بدل الاتصال,Request,Neutral
+فكرة العروض اليومية جميلة ولو تنبهوننا قبلها,Suggestion,Positive
+لو تضيفون بحث بالصوت,Suggestion,Neutral
+المبلغ انسحب من حسابي والطلب ملغي,Payment Problem,Negative
+كنت اثق فيكم بس صرت لا,Complaint,Negative
+هل عندكم برنامج للشركاء؟,Inquiry,Neutral
+هل فيه توصيل مجاني فوق مبلغ معين؟,Inquiry,Neutral
+يقول الرقم مسجل من قبل وانا اول مرة,Technical Issue,Negative
+ابي اجرب المنتج قبل الشراء,Request,Neutral
+الدعم الفني حل مشكلتي من اول مرة,Positive Feedback,Positive
+صفحة الحساب ما تحمل,Technical Issue,Negative
+أفضل خدمة عملاء تعاملت معها,Positive Feedback,Positive
+لو تحطون صور اكثر للمنتج,Suggestion,Neutral
+بعد التحديث كل شي صار بطيء,Technical Issue,Negative
+اقترح تسمحون بالغاء الطلب من التطبيق مباشرة,Suggestion,Neutral
+ما يقبل ادخل رقم جوالي,Technical Issue,Negative
+لو يكون فيه دعم للاجهزة القديمة,Suggestion,Neutral
+صفحة الطلبات فاضية مع اني طلبت كثير,Technical Issue,Negative
+الشات يبقى يحمل وما يفتح,Technical Issue,Negative
+بطاقتي انسجلت بدون موافقتي,Payment Problem,Negative
+ما اقدر اغير اللغة,Technical Issue,Negative
+هل يشتغل بدون نت؟,Inquiry,Neutral
+يقول العملية ناجحة وبنفس الوقت الطلب غير مدفوع,Payment Problem,Negative
+والله انكم فله,Positive Feedback,Positive
+الخدمة متوقفة مرة ثانية,Technical Issue,Negative
+دايم اطلب منكم وما اندم,Positive Feedback,Positive
+اقتراح: خلوا فيه تنبيه قبل انتهاء الاشتراك,Suggestion,Neutral
+هل المنتج مناسب للبشرة الحساسة؟,Inquiry,Neutral
+الابلكيشن ثقيل ويبطي جوالي,Technical Issue,Negative
+وصلني قبل العيد بيوم وكانت مفاجأة حلوة,Positive Feedback,Positive
+الابلكيشن ما يفتح بعد التحديث الاخير,Technical Issue,Negative
+خدمة ٥ نجوم,Positive Feedback,Positive
+وش الجديد في اخر اصدار؟,Inquiry,Neutral
+وعدتوني بحل اليوم ولين الحين ما صار شي,Complaint,Negative
+مافي خيار الغاء الاشتراك وانا ادفع كل شهر,Payment Problem,Negative
+وقفوا الشحن مؤقتا لو تكرمتوا,Request,Neutral
+الحل جا بسرعة وبدون تعقيد,Positive Feedback,Positive
+ما اقدر افعل الحساب بعد التسجيل,Technical Issue,Negative
+كل شي كان مرتب من الطلب للاستلام,Positive Feedback,Positive
+ما استفدت شي، ضاعت فلوسي,Complaint,Negative
+كل الاحترام لفريق التوصيل,Positive Feedback,Positive
+ممكن تكررون الطلب السابق؟,Request,Neutral
+مشكلة في تغيير كلمة السر,Technical Issue,Negative
+المنتج يجنن والله,Positive Feedback,Positive
+غيروا طريقة الدفع الى بطاقة,Request,Neutral
+ما حلوا مشكلتي بعد ثلاث مكالمات,Complaint,Negative
+ابي اغير كلمة المرور,Request,Neutral
+كم مرة اطلب استرجاع ولا رجع المبلغ,Payment Problem,Negative
+فعّلوا لي الخدمة الجديدة,Request,Neutral
+هل فيه تقسيط بدون فوائد؟,Inquiry,Neutral
+ضيعتوا وقتي على الفاضي,Complaint,Negative
+ضيعتوا علي مناسبتي بتأخير الطلب,Complaint,Negative
+أنا زبون قديم وما لقيت اي تقدير,Complaint,Negative
+سرعة في الرد لا تصدق,Positive Feedback,Positive
+والله من احسن الاماكن,Positive Feedback,Positive
+يطلعني من الحساب بدون سبب,Technical Issue,Negative
+خصم علي المبلغ وما وصلني تأكيد الطلب,Payment Problem,Negative
+الوضع الليلي يخرب الالوان,Technical Issue,Negative
+ابي اضيف بطاقتي للحساب,Request,Neutral
+العنوان ينحذف كل مرة,Technical Issue,Negative
+هل الفاتورة تتضمن الضريبة؟,Inquiry,Neutral
+ايصال التحويل ما انقبل مع اني ارسلته صح,Payment Problem,Negative
+مقاس المنتج مضبوط زي ما في الوصف,Positive Feedback,Positive
+الدفع عند الاستلام تم إلغاؤه من عندكم بدون اخباري,Payment Problem,Negative
+وش وقت الدعم بالواتساب؟,Inquiry,Neutral
+حولوا الرصيد لحسابي البنكي,Request,Neutral
+بصراحة الشراء منكم كان مريح,Positive Feedback,Positive
+يجاوبون بكلام محفوظ ولا حلوا شي,Complaint,Negative
+كيف اسجل حساب جديد؟,Inquiry,Neutral
+استرجعتوا نص المبلغ بس,Payment Problem,Negative
+اعطوني فاتورة غلط بمبلغ اقل واخذوا اكثر,Payment Problem,Negative
+وش الحد الادنى للطلب؟,Inquiry,Neutral
+يعلق عند شاشة التحميل,Technical Issue,Negative
+وش سياسة الاستبدال؟,Inquiry,Neutral
+وصلني الطلب قبل الموعد,Positive Feedback,Positive
+اتمنى يكون فيه دعم بالواتساب,Suggestion,Neutral
+هذا اللي ندور عليه خدمة سريعة ومضبوطة,Positive Feedback,Positive
+كم تكلفة التركيب؟,Inquiry,Neutral
+ممكن ترسلون لي نسخة من العقد؟,Request,Neutral
+السيرفر واقع من الصبح,Technical Issue,Negative
+ابغى اسجل شكوى على الموظف اللي كلمني,Complaint,Negative
+ما اقدر ادفع لان الزر ما يشتغل,Payment Problem,Negative
+تحويلي انحجز ثلاث ايام من غير سبب,Payment Problem,Negative
+طريقة الطلب صارت اسهل,Positive Feedback,Positive
+نسيت كلمة السر والرابط ما يوصل,Technical Issue,Negative
+هل النقاط تنتقل لحساب ثاني؟,Inquiry,Neutral
+خيبتوا املي، كنت اتوقع اكثر,Complaint,Negative
+اعيدوا ارسال الفاتورة,Request,Neutral
+حولوني على موظف خدمة العملاء,Request,Neutral
+الدفع سهل وما فيه تعقيد,Positive Feedback,Positive
+تشكرون على المجهود,Positive Feedback,Positive
+عساكم على القوة,Positive Feedback,Positive
+مرت اسبوعين وما نزل الاسترجاع,Payment Problem,Negative
+والله شي يفرح الخدمة اليوم,Positive Feedback,Positive
+عطوني رقم الشكوى لو تكرمتم,Request,Neutral
+ابي اعرف الدفعات اللي عليّ,Request,Neutral
+كيف اكلم موظف حقيقي؟,Inquiry,Neutral
+منتج يستاهل كل ريال,Positive Feedback,Positive
+الموظفين واقفين يسولفون وانا انتظر,Complaint,Negative
+شغل نظيف وسريع,Positive Feedback,Positive
+اسلوب الكاشير كان مستفز,Complaint,Negative
+المكالمة تنقطع بعد ثواني,Technical Issue,Negative
+صفحة الدفع تعطي خطأ كل ما ادخل رقم البطاقة,Payment Problem,Negative
+ابغى اطلب فاتورة باسم الشركة,Request,Neutral
+ابغى استلم من الفرع بدل التوصيل,Request,Neutral
+الخدمة جيدة جدا وأتمنى الاستمرار بنفس المستوى وزيادة الفروع,Suggestion,Positive
+تعبت اتعامل مع غيركم ورجعت لكم,Positive Feedback,Positive
+ابغى انقل اشتراكي لحساب ثاني,Request,Neutral
+اتمنى توفرون اكثر من لغة,Suggestion,Neutral
+انتم الاصل,Positive Feedback,Positive
+وش طرق الدفع المتاحة؟,Inquiry,Neutral
+ياليت تعطون اشعار لما ينزل سعر المنتج,Suggestion,Neutral
+عطوني رقم شكوى ولا حد تواصل معي,Complaint,Negative
+نفس الغلط تكرر ثالث مرة,Complaint,Negative
+الأكل وصل بارد وناقص,Complaint,Negative
+فلوسي عالقة عندكم من اسبوعين,Payment Problem,Negative
+جودة الاكل ممتازة ولو تضيفون اطباق جديدة,Suggestion,Positive
+ابغى اضيف رقم جوال ثاني,Request,Neutral
+هل في نسخة تجريبية؟,Inquiry,Neutral
+رمز التحقق للدفع ما وصلني,Payment Problem,Negative
+لو تضيفون خيار الاستلام من الفرع,Suggestion,Neutral
+يستاهلون خمس نجوم,Positive Feedback,Positive
+فكرة الاشتراك الشهري حلوة ولو فيه خيار نصف سنوي,Suggestion,Positive
+فاتورتي مكررة بنفس الرقم,Payment Problem,Negative
+استرجاع المبلغ كان سريع وبدون مشاكل,Positive Feedback,Positive
+لو تسمحون بتعديل الطلب بعد التأكيد,Suggestion,Neutral
+دفعت العربون وما اعترفوا فيه,Payment Problem,Negative
+يقول لي خطأ في الاتصال والنت عندي ممتاز,Technical Issue,Negative
+ابي احذف بياناتي من النظام,Request,Neutral
+هل التقييم مجهول؟,Inquiry,Neutral
+ماشاء الله عليكم، لو تسوون مسابقات للعملاء بتكون حلوة,Suggestion,Positive
+اقترح نظام نقاط اوضح,Suggestion,Neutral
+وقفوا الرسائل التسويقية عني,Request,Neutral
+وصل التوصيل لحي ثاني وتعبت اتواصل معهم,Complaint,Negative
+الله يعطيكم العافية ما قصرتوا,Positive Feedback,Positive
+وش هالتعامل الحلو,Positive Feedback,Positive
+الشحنة ضاعت وكل واحد يرميها على الثاني,Complaint,Negative
+تغيرتوا علينا والله، الخدمة ما هي مثل قبل,Complaint,Negative
+خدمة راقية وتعامل محترم,Positive Feedback,Positive
+كلمة السر للدفع ما وصلت,Payment Problem,Negative
+ما شفت احسن من كذا,Positive Feedback,Positive
+ما أنصح فيكم أحد,Complaint,Negative
+كيف اقيّم الخدمة؟,Inquiry,Neutral
+ابل باي يعطيني خطأ بس البنك خصم,Payment Problem,Negative
+التحديث الاخير حسن التطبيق واجد,Positive Feedback,Positive
+ابغى ارجع الاشتراك للشهري,Request,Neutral
+كيف اغير الايميل المسجل؟,Inquiry,Neutral
+انرسل الرمز متأخر وانتهت المعاملة وانخصم المبلغ,Payment Problem,Negative
+المبلغ اللي ظهر في الرسالة غير اللي انخصم,Payment Problem,Negative
+هل الكود الترويجي يشتغل على كل المنتجات؟,Inquiry,Neutral
+ابي احجز زيارة فني,Request,Neutral
+لو تخلون التسجيل اسهل بخطوات اقل,Suggestion,Neutral
+الدخول بالبصمة ما يعمل بعد التحديث,Technical Issue,Negative
+ما يقبل يرفع الصورة,Technical Issue,Negative
+الدفع بمدى ما يشتغل عندكم,Payment Problem,Negative
+الموظفين محترمين وبس لو يزيدون عددهم وقت الذروة,Suggestion,Positive
+جزاكم الله خير على صبركم معي,Positive Feedback,Positive
+هل المنتج متوفر بمقاس اكبر؟,Inquiry,Neutral
+اقترح تمددون ساعات الدعم,Suggestion,Neutral
+مو زي ما كنت متوقع، خيبتوا ظني,Complaint,Negative
+دفعت بالتحويل وما قبلوا الايصال,Payment Problem,Negative
+متى يرد الدعم على التذاكر؟,Inquiry,Neutral
+وش رقم الدعم؟,Inquiry,Neutral
+التسجيل بالايميل يعطيني خطأ,Technical Issue,Negative
+هل التوصيل متاح في العطلة؟,Inquiry,Neutral
+كلمتهم ورجعوا لي بحل في نفس اليوم,Positive Feedback,Positive
+الكود يطلع منتهي وانا للتو استلمته,Technical Issue,Negative
+كلموني بعد الساعة ٥,Request,Neutral
+ابي اجل التسليم لبعد العيد,Request,Neutral
+الخريطة ما تحدد موقعي صح,Technical Issue,Negative
+رابط التتبع يفتح صفحة خطأ,Technical Issue,Negative
+تعامل الموظف كان زفت,Complaint,Negative
+استفدت واجد من الخدمة,Positive Feedback,Positive
+النظام مغلق للصيانة وما في وقت محدد,Technical Issue,Negative
+مشكلة في الدخول بحساب جوجل,Technical Issue,Negative
+اكتبوا على الطلب اسم المستلم,Request,Neutral
+ابغى اسحب مبلغ المحفظة,Request,Neutral
+لا جودة ولا سرعة ولا احترام,Complaint,Negative
+ياليت تضيفون تنبيه اذا وصل المندوب,Suggestion,Neutral
+خيبة امل بصراحة,Complaint,Negative
+ممكن اعادة الاتصال على رقمي؟,Request,Neutral
+التغليف انيق وياليت تستخدمون مواد صديقة للبيئة,Suggestion,Positive
+ابغى اخفض الباقة للاساسية,Request,Neutral
+الأسعار غالية والجودة نازلة,Complaint,Negative
+المحفظة الالكترونية علقت وفلوسي فيها,Payment Problem,Negative
+التقييم ما ينرسل يقول فشل,Technical Issue,Negative
+اقترح تضيفون تتبع مباشر على الخريطة,Suggestion,Neutral
+لو ترسلون تقرير شهري بمشترياتي,Suggestion,Neutral
+حليتوا مشكلتي في دقايق,Positive Feedback,Positive
+بصمة الوجه ما تشتغل في التطبيق,Technical Issue,Negative
+فعلوا لي الكود الترويجي,Request,Neutral
+حجزت وما احترموا حجزي,Complaint,Negative
+حبيت التوصيل السريع ولو يكون فيه خيار المساء بيكون احلى,Suggestion,Positive
+الابلكيشن يعيد تسجيل الدخول كل يوم,Technical Issue,Negative
+هل الاكل حلال وعليه شهادة؟,Inquiry,Neutral
+ما فيه احد يتحمل المسؤولية,Complaint,Negative
+كيف اعرف ان الطلب انقبل؟,Inquiry,Neutral
+حدث خطأ غير متوقع مرة ثانية,Technical Issue,Negative
+الفرع نظيف ومرتب,Positive Feedback,Positive
+خاصية التتبع ما تتحدث,Technical Issue,Negative
+هل المقاس ثابت او يصغر بعد الغسيل؟,Inquiry,Neutral
+ياليت تضيفون خاصية الطلب المتكرر,Suggestion,Neutral
+هل فيه توصيل خارج الرياض؟,Inquiry,Neutral
+دفعت بالغلط مرتين والاسترجاع صعب,Payment Problem,Negative
+الانتظار كان قصير والخدمة سريعة,Positive Feedback,Positive
+وين اقرب فرع لي؟,Inquiry,Neutral
+المنتج خربان من اول استخدام,Complaint,Negative
+التوصيل تأخر ثلاثة ايام وما أحد رد علي,Complaint,Negative
+ممكن تفعلون حسابي؟,Request,Neutral
+تتبع الطلب واقف من يومين,Technical Issue,Negative
+هل يوجد موقف سيارات؟,Inquiry,Neutral
+اقترح تعملون شات بوت يرد بسرعة,Suggestion,Neutral
+هل ينفع ادفع بنصف المبلغ؟,Inquiry,Neutral
+ما رجع لي المبلغ بعد الالغاء,Payment Problem,Negative
+هل الاشتراك يتجدد تلقائي؟,Inquiry,Neutral
+اذا ما كنت موجود هل يرجع المندوب؟,Inquiry,Neutral
+أسوأ خدمة جربتها في حياتي,Complaint,Negative
+اضطريت ادفع مرتين لان الاولى ما ظهرت,Payment Problem,Negative
+الاحداثيات غلط ويجيني المندوب لمكان ثاني,Technical Issue,Negative
+المنتج المستعمل بعتوه علي جديد,Complaint,Negative
+الدفع من الموقع يشتغل ومن التطبيق لا,Payment Problem,Negative
+رفضوا الدفع من محفظتي مع ان فيها رصيد,Payment Problem,Negative
+البطاقة تنرفض كل مرة,Payment Problem,Negative
+رمز التحقق ما يوصل ابدا,Technical Issue,Negative
+كيف اعرف ان المنتج اصلي؟,Inquiry,Neutral
+المنتجات ممتازة ولو فيه تشكيلة اكثر بتكون رهيبة,Suggestion,Positive
+وقت التسليم مضبوط,Positive Feedback,Positive
+حدثوا بياناتي في النظام,Request,Neutral
+متى يوصل الطلب اذا طلبته الحين؟,Inquiry,Neutral
+المندوب اتصل قبل ما يجي وهذا شي مريح,Positive Feedback,Positive
+ابغى اعرف ليش انحسبت علي ضريبة مرتين,Payment Problem,Negative
+المندوب ما اتصل علي وقال ما رديت,Complaint,Negative
+هل ينفع استبدل بعد اسبوعين؟,Inquiry,Neutral
+على الاندرويد يقفل فجأة,Technical Issue,Negative
+ضيفوا لي بطاقة معايدة,Request,Neutral
+ابي كشف حساب لاخر ٣ شهور,Request,Neutral
+وش الالوان المتوفرة؟,Inquiry,Neutral
+وش البنوك اللي تقبلونها؟,Inquiry,Neutral
+التطبيق يحذف بياناتي لما احدثه,Technical Issue,Negative
+خدمتكم نزلت مره عن اول,Complaint,Negative
+المندوب كان محترم وسريع,Positive Feedback,Positive
+القائمة تنقفل لما اضغط عليها,Technical Issue,Negative
+الجودة تفرق لما تجربونها,Positive Feedback,Positive
+السعر عند الدفع غير اللي شفته بالسلة,Payment Problem,Negative
+ياليت تطورون خاصية المحادثة,Suggestion,Neutral
+ابغى اوقف اشتراكي,Request,Neutral
+ماعجبني اسلوبكم في الرد,Complaint,Negative
+التطبيق يستهلك النت بشكل غريب,Technical Issue,Negative
+ياليت تضيفون تذكير قبل موعد الاستلام,Suggestion,Neutral
+ما يسوى الفلوس اللي دفعتها,Complaint,Negative
+حسيت انكم فعلا تهتمون بالعميل,Positive Feedback,Positive
+ولا مرة ضبطتوا الموعد,Complaint,Negative
+ما وصلتني فاتورة الشراء على الايميل,Payment Problem,Negative
+اهتمام ملحوظ بالتفاصيل الصغيرة,Positive Feedback,Positive
+الصفحة الرئيسية تحمل ببطء شديد,Technical Issue,Negative
+رصيدي انخصم لكن الخدمة ما تفعلت,Payment Problem,Negative
+الوصف في الموقع غير الحقيقة,Complaint,Negative
+ابغى الغي الطلب لو سمحتوا,Request,Neutral
+الطلب وصل مكسور وما أحد يبي يعوضني,Complaint,Negative
+اتمنى يكون فيه وضع للشاشات الكبيرة,Suggestion,Neutral
+البحث ما يعطيني اي نتيجة,Technical Issue,Negative
+اعجبني التحديث ولو تضيفون خاصية الحفظ,Suggestion,Positive
+كيف اطلب بالجملة؟,Inquiry,Neutral
+مررره حلو الاستقبال,Positive Feedback,Positive
+يجيني خطأ رقم 404 لما ادخل الطلب,Technical Issue,Negative
+غلط في العنوان وانا كاتبه صح,Complaint,Negative
+لغيت الطلب قبل الشحن وما رجعوا الفلوس,Payment Problem,Negative
+تطبيقكم سهل وياليت تضيفون لغة ثانية,Suggestion,Positive
+لو اعطيكم ١٠ من ١٠ ما قصرت,Positive Feedback,Positive
+هل اقدر استخدم نفس الحساب على جهازين؟,Inquiry,Neutral
+ابي اكلم مدير القسم,Request,Neutral
+تسجيل الخروج ما يشتغل,Technical Issue,Negative
+اضيفوا لي الطلب لقائمة المفضلة,Request,Neutral
+لو تسوون فلتر بحسب السعر بيكون افضل,Suggestion,Neutral
+الله يوفقكم على هالجهد,Positive Feedback,Positive
+اول مرة اشوف خدمة عملاء تتصل تتاكد اني بخير,Positive Feedback,Positive
+المنتج اصلي ومضمون,Positive Feedback,Positive
+القائمة ما تظهر كاملة,Technical Issue,Negative
+المنتج ما يشتغل ورفضوا يبدلونه,Complaint,Negative
+يطلع لي شاشة بيضاء بعد ما افتح,Technical Issue,Negative
+هل اقدر احجز موعد اونلاين؟,Inquiry,Neutral
+تأخر تحويل المبلغ لحسابي اكثر من عشر ايام,Payment Problem,Negative
+هل اقدر اطلب عينة قبل الشراء؟,Inquiry,Neutral
+ابي اعرف وين وصل الطلب,Request,Neutral
+هل تشحنون دولياً؟,Inquiry,Neutral
+الصور ما تنحمل في التطبيق,Technical Issue,Negative
+خدمتكم فوق الممتاز,Positive Feedback,Positive
+يقفل بمجرد ما اضغط على السلة,Technical Issue,Negative
+ما اتاكد من الدفع لانه ما فيه رسالة تأكيد,Payment Problem,Negative
+الكود الترويجي ما اشتغل عند الدفع,Payment Problem,Negative
+المبلغ مدفوع ولسا النظام يقول مطلوب دفعه,Payment Problem,Negative
+ما يقبلون البطاقة الاجنبية,Payment Problem,Negative
+الطعم لذيذ والتوصيل ساخن,Positive Feedback,Positive
+اللي يسمعكم يقول ممتازين وهي في الواقع شينه,Complaint,Negative
+كيف الغي الاشتراك؟,Inquiry,Neutral
+وصلني الطلب ناقص وما فيه نص الأغراض,Complaint,Negative
+صوت المكالمة داخل التطبيق ما يسمع,Technical Issue,Negative
+ماكانت الخدمة على قد التوقعات,Complaint,Negative
+وين اقدر اصلح الجهاز؟,Inquiry,Neutral
+التوصيل الي بيتي كان اسرع من المتوقع,Positive Feedback,Positive
+كيف استرجع المنتج؟,Inquiry,Neutral
+الموقع يقول تم التسليم وانا ما استلمت شي,Complaint,Negative
+يقولون ما وصلنا الدفع وانا عندي اثبات,Payment Problem,Negative
+ابي التغليف كهدية,Request,Neutral
+ضمان حقيقي وتعاملوا معي بأمانة,Positive Feedback,Positive
+عجبتني فكرة التتبع المباشر,Positive Feedback,Positive
+ارسلوا لي الايصال على الواتساب,Request,Neutral
+أجلوا الطلب اسبوع,Request,Neutral
+تعامل ذوق وراقي وهادي,Positive Feedback,Positive
+قالوا بيرجع المبلغ خلال ٣ ايام وصارلي عشرة,Payment Problem,Negative
+هذا الفرق بينكم وبين غيركم الاحترام,Positive Feedback,Positive
+يفضل تضيفون فيديو يشرح طريقة الاستخدام,Suggestion,Neutral
+كل ما أحاول ارفع ملف يقول فشل الرفع,Technical Issue,Negative
+خلوه عند الحارس لو سمحتوا,Request,Neutral
+هل في تحديث جديد للتطبيق؟,Inquiry,Neutral
+ممكن تشيلون هالمنتج من طلبي؟,Request,Neutral
+ما اقدر اسجل دخول، يقول الرمز غلط,Technical Issue,Negative
+عروض الخصم ما انطبقت وقت الدفع,Payment Problem,Negative
